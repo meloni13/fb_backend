@@ -44,7 +44,6 @@
 		"pdfkit": "^0.13.0",
 		"puppeteer": "^19.3.0",
 		"razorpay": "^2.8.2",
-		"request": "^2.88.2",
 		"shortid": "^2.2.16",
 		"stripe": "^8.176.0"
 	},
